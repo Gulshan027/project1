@@ -1,4 +1,4 @@
 # informaiton
 using hello
 
-created by gulshan 
+created by gulshan .
